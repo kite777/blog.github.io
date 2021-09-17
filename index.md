@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<center>
+     <h1>风筝</h1>
+     <div>
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
+             18851999538
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/envelope-solid.svg" width="18px">
+             2369280805@qq.com
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://github.com/mqxu">我的Github</a>
+         </span>
+         ·
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
+         </span>
+     </div>
+ </center>
+ 
 
-You can use the [editor on GitHub](https://github.com/kite777/blog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - 在校大学生
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-```markdown
-Syntax highlighted code block
+- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
+- 学士，XXXX大学，计算机科学与技术专业，2012.9~2016.7
+- 外语能力： CET4/6 英语等级考试
 
-# Header 1
-## Header 2
-### Header 3
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- Bulleted
-- List
+- 
 
-1. Numbered
-2. List
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-**Bold** and _Italic_ and `Code` text
+- **XXXX 项目**
 
-[Link](url) and ![Image](src)
-```
+  *使用到的技术*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/tools-solid.svg" width="30px"> 技能清单
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kite777/blog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ★★★ Java
+- ★★☆ Spring
+- ★★☆ HTML/CSS/JavaScript
+- ★★☆ Python
+- ★★★ MySQL
+- ★★★ Redis
